@@ -1,0 +1,17 @@
+.true {
+  font-weight: bold;
+}
+
+.false {
+  color: darkred;
+}
+
+.error {
+  font-weight: bold;
+  color: darkred;
+}
+
+.value {
+  font-weight: bold;
+  color: blue;
+}
